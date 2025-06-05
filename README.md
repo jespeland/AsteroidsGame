@@ -22,5 +22,3 @@ When running the program ensure that the freeglut.dll file is copied into the cm
 http://jeromebelleman.gitlab.io/posts/devops/gltext/ 
 
 https://www.youtube.com/watch?v=uhXc5PmiYEo
-
-### Expected Grade: 75%
